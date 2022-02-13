@@ -1,0 +1,11 @@
+#@debug@
+## Interface: 20501
+#@end-debug@
+#@project-interface@
+## Title: tdGroupLoot
+## Author: Dencer
+## Version: @project-version@
+## SavedVariables:
+## SavedVariablesPerCharacter: TDCACHE_GROUPLOOT
+
+Load.xml
